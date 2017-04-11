@@ -27,6 +27,8 @@ The universe of the Game of Life is an infinite two-dimensional orthogonal grid 
 * Any live cell with more than three live neighbours dies, as if by overpopulation.
 * Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
 
+https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+
 ## Proof of concept
 
 10 iterations of the ‘Toad’, or some other more interesting pattern:
